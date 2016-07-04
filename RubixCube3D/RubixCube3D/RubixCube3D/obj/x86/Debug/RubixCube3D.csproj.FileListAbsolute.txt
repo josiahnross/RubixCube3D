@@ -1,0 +1,24 @@
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\RubixCube3D.exe
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\RubixCube3D.pdb
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.csprojResolveAssemblyReference.cache
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.exe
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.pdb
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\Content\Outline.xnb
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\Content\arrow.xnb
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\Content\Outline.xnb
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\Content\arrow.xnb
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\RubixCube3D.exe
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\RubixCube3D.pdb
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.csprojResolveAssemblyReference.cache
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.exe
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.pdb
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\Content\Outline.xnb
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\Content\arrow.xnb
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\RubixCube3D.exe
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\bin\x86\Debug\RubixCube3D.pdb
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.csprojResolveAssemblyReference.cache
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.exe
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3D\obj\x86\Debug\RubixCube3D.pdb

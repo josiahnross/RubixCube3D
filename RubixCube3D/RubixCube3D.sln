@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubixCube3D", "RubixCube3D\RubixCube3D\RubixCube3D.csproj", "{A3109A11-2DF9-49B0-9DB4-DE68088586E1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RubixCube3DContent", "RubixCube3D\RubixCube3DContent\RubixCube3DContent.contentproj", "{D7C3AB65-2DC7-4FB2-85FE-A8FBEA4E5863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3109A11-2DF9-49B0-9DB4-DE68088586E1}.Debug|x86.ActiveCfg = Debug|x86
+		{A3109A11-2DF9-49B0-9DB4-DE68088586E1}.Debug|x86.Build.0 = Debug|x86
+		{A3109A11-2DF9-49B0-9DB4-DE68088586E1}.Release|x86.ActiveCfg = Release|x86
+		{A3109A11-2DF9-49B0-9DB4-DE68088586E1}.Release|x86.Build.0 = Release|x86
+		{D7C3AB65-2DC7-4FB2-85FE-A8FBEA4E5863}.Debug|x86.ActiveCfg = Debug|x86
+		{D7C3AB65-2DC7-4FB2-85FE-A8FBEA4E5863}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

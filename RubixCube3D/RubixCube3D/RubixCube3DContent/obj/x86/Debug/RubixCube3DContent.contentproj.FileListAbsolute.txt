@@ -1,0 +1,3 @@
+C:\Users\Josiah\Documents\Visual Studio 2010\Projects\RubixCube3D\RubixCube3D\RubixCube3DContent\obj\x86\Debug\RubixCube3DContent.contentprojResolveAssemblyReference.cache
+E:\progams\3D\RubixCube3D\RubixCube3D\RubixCube3DContent\obj\x86\Debug\RubixCube3DContent.contentprojResolveAssemblyReference.cache
+C:\Users\Josiah\Desktop\FlashDrive 9-27-15\progams\3D\RubixCube3D\RubixCube3D\RubixCube3DContent\obj\x86\Debug\RubixCube3DContent.contentprojResolveAssemblyReference.cache
